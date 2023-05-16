@@ -1,0 +1,5 @@
+﻿  P2.cpp
+d:\programación 1\exámenes\pc1\pc1 - 2019-01\p2\p2\p2.cpp(18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  LINK : no se encontró D:\Programación 1\Exámenes\PC1\PC1 - 2019-01\P2\Debug\P2.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  P2.vcxproj -> D:\Programación 1\Exámenes\PC1\PC1 - 2019-01\P2\Debug\P2.exe
+  P2.vcxproj -> D:\Programación 1\Exámenes\PC1\PC1 - 2019-01\P2\Debug\P2.pdb (Partial PDB)
