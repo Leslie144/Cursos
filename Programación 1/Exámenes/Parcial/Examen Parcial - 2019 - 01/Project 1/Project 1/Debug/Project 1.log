@@ -1,0 +1,4 @@
+﻿  Source 1.cpp
+d:\upc\programación i\exámenes\parcial\examen parcial - 2019-01\project 1\project 1\source 1.cpp(46): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Project 1.vcxproj -> D:\UPC\Programación I\Exámenes\Parcial\Examen Parcial - 2019-01\Project 1\Debug\Project 1.exe
+  Project 1.vcxproj -> D:\UPC\Programación I\Exámenes\Parcial\Examen Parcial - 2019-01\Project 1\Debug\Project 1.pdb (Partial PDB)

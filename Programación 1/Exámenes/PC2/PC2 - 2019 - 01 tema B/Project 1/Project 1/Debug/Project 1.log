@@ -1,0 +1,6 @@
+﻿  Source 1.cpp
+Source 1.cpp(29): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Source 1.cpp(32): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Source 1.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  Project 1.vcxproj -> D:\UPC\Programación I\Exámenes\PC2\PC2 - 2019 - 01 tema B\Project 1\Debug\Project 1.exe
+  Project 1.vcxproj -> D:\UPC\Programación I\Exámenes\PC2\PC2 - 2019 - 01 tema B\Project 1\Debug\Project 1.pdb (Partial PDB)
